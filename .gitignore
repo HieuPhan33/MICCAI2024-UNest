@@ -1,0 +1,5 @@
+eval.sh
+setup.sh
+docker_run.sh
+check_error.py
+resize_images.py
