@@ -5,4 +5,4 @@ We are cleaning the code and will release soon.
 
 Please check out our concurrent work on unpaired medical image synthesis: https://github.com/HieuPhan33/MaskGAN!
 
-Stay tuned.
+Stay tuned...
